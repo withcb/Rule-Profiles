@@ -1,4 +1,5 @@
 #!name=TikTok Unlock
+#!desc=TikTok解锁
 #!system=ios
 
 [URL Rewrite]

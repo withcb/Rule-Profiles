@@ -62,12 +62,12 @@ hostname = api.m.jd.com
 [task_local]
 # 京东多合一签到
 # 注意此为本地路径, 请根据实际情况自行调整
-5 0 * * * JD_DailyBonus.js
+5 0 * * * JD_DailyBonusV1.js
 
 [rewrite_local]
 # 获取京东Cookie. 
 # 注意此为本地路径, 请根据实际情况自行调整.
-https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header JD_DailyBonus.js
+https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean url script-request-header JD_DailyBonusV1.js
 
 [mitm]
 hostname = api.m.jd.com

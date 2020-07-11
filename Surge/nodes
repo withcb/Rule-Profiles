@@ -1,3 +1,0 @@
-Hong Kong 1= ss, a.abc.com, 123, encrypt-method=aes-128-gcm, password=123, obfs=http, obfs-host=123.123.com, tfo=false, udp-relay=true
-Hong Kong 2= ss, a.abc.com, 124, encrypt-method=aes-128-gcm, password=123, obfs=http, obfs-host=123.123.com, tfo=false, udp-relay=true
-Hong Kong 3= ss, a.abc.com, 125, encrypt-method=aes-128-gcm, password=123, obfs=http, obfs-host=123.123.com, tfo=false, udp-relay=true
